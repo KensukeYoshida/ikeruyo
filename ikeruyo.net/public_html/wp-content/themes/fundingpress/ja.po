@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TEAM KENSUKE IKERUYO\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-09 03:54+0000\n"
+"PO-Revision-Date: 2017-09-09 03:55+0000\n"
+"Last-Translator: ikeruyo-nasu <flamingo.nasu@gmail.com>\n"
+"Language-Team: \n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Name of the template
+msgid "No title"
+msgstr ""
+
+#. Name of the template
+msgid "Launch project"
+msgstr ""
+
+#. Name of the theme
+msgid "TEAM KENSUKE IKERUYO"
+msgstr ""
+
+#. Author of the theme
+msgid "匿名"
+msgstr ""

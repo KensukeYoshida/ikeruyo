@@ -1,0 +1,2427 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: IgnitionDeck\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-23 11:50-0500\n"
+"PO-Revision-Date: 2016-12-23 12:07-0500\n"
+"Last-Translator: Nathan Hangen <nhangen@gmail.com>\n"
+"Language-Team: Virtuous Giant <info@virtuousgiant.com>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/class-id_fes.php:34 ignitiondeck-postmeta.php:99
+#: languages_default/text_variables.php:314
+msgid "Campaign End Options"
+msgstr "Opzioni di fine Campagna"
+
+#: classes/class-id_fes.php:58 ignitiondeck-postmeta.php:276
+#: languages_default/text_variables.php:233
+msgid "Project Updates"
+msgstr "Aggiornamenti del Progetto"
+
+#: classes/class-id_fes.php:73
+#, fuzzy
+msgid "Project Image 2"
+msgstr "Immagine del Progetto"
+
+#: classes/class-id_fes.php:89
+#, fuzzy
+msgid "Project Image 3"
+msgstr "Immagine del Progetto"
+
+#: classes/class-id_fes.php:105
+#, fuzzy
+msgid "Project Image 4"
+msgstr "Immagine del Progetto"
+
+#: classes/class-id_fes.php:136 languages_default/text_variables.php:285
+msgid "Project Reward Levels"
+msgstr "Livelli di Compenso del Progetto"
+
+#: classes/class-id_fes.php:137
+#, fuzzy
+msgid "Number of Levels"
+msgstr "Numero Massimo di Pagamenti"
+
+#: classes/class-id_fes.php:150 classes/class-id_fes.php:224
+#: classes/class-id_fes.php:274 classes/class-id_fes.php:318
+#: classes/class-id_fes.php:365 ign_metabox/init.php:311
+#: ign_metabox/init.php:629 ignitiondeck-postmeta.php:175
+#: languages_default/text_variables.php:152
+msgid "Level Title"
+msgstr "Titolo del Livello"
+
+#: classes/class-id_fes.php:159 classes/class-id_fes.php:233
+#: classes/class-id_fes.php:283 classes/class-id_fes.php:327
+#: classes/class-id_fes.php:373 ign_metabox/init.php:312
+#: ign_metabox/init.php:630 ignitiondeck-postmeta.php:182
+#: languages_default/text_variables.php:141
+msgid "Level Price"
+msgstr "Prezzo del Livello"
+
+#: classes/class-id_fes.php:169 classes/class-id_fes.php:242
+#: classes/class-id_fes.php:293 classes/class-id_fes.php:336
+#: classes/class-id_fes.php:381 ign_metabox/init.php:313
+#: ign_metabox/init.php:631 ignitiondeck-postmeta.php:204
+#: languages_default/text_variables.php:153
+msgid "Level Limit"
+msgstr "Limite del Livello"
+
+#: classes/class-id_fes.php:179 classes/class-id_fes.php:303
+#: classes/class-id_fes.php:391
+#, fuzzy
+msgid "Level Fund Type"
+msgstr "Titolo del Livello"
+
+#: classes/class-id_fes.php:252 classes/class-id_fes.php:345
+#: classes/class-id_fes.php:433 languages_default/text_variables.php:142
+msgid "Level Description"
+msgstr "Descrizione del Livello"
+
+#: classes/class-id_fes.php:260 classes/class-id_fes.php:353
+#: classes/class-id_fes.php:440 ign_metabox/init.php:634
+#: ignitiondeck-postmeta.php:196
+#, fuzzy
+msgid "Level Long Description"
+msgstr "Level Description"
+
+#: classes/class-id_fes.php:451 languages_default/text_variables.php:20
+msgid "Update"
+msgstr "Aggiornare"
+
+#: classes/class-id_fes.php:451
+#, fuzzy
+msgid "Update Submission"
+msgstr "Opzioni di Aggiornamento"
+
+#: classes/class-id_fes.php:459
+msgid "Save Draft"
+msgstr ""
+
+#: classes/class-id_fes.php:459
+#, fuzzy
+msgid "Update Draft"
+msgstr "Aggiornare"
+
+#: classes/class-id_fes.php:465
+msgid "Submit for Review"
+msgstr ""
+
+#: classes/class-id_fes.php:491
+#, fuzzy
+msgid "Project Information"
+msgstr "Informazioni per il Pagamento"
+
+#: classes/class-id_fes.php:492 languages_default/text_variables.php:337
+#, fuzzy
+msgid "Project Title"
+msgstr "Tipologia di Progetto"
+
+#: classes/class-id_fes.php:505
+#, fuzzy
+msgid "Goal Amount"
+msgstr "Massimo Ammontare Totale"
+
+#: classes/class-id_fes.php:525 ignitiondeck-admin.php:48
+#, fuzzy
+msgid "Project Category"
+msgstr "Nome del Progetto"
+
+#: classes/class-id_fes.php:543
+#, fuzzy
+msgid "Close on End"
+msgstr "Chiuso"
+
+#: classes/class-id_fes.php:555
+msgid "Leave Open"
+msgstr ""
+
+#: classes/class-id_fes.php:568
+#, fuzzy
+msgid "Start Date"
+msgstr "Data di Inizio"
+
+#: classes/class-id_fes.php:581 languages_default/text_variables.php:14
+msgid "End Date"
+msgstr "Data Finale"
+
+#: classes/class-id_fes.php:594 languages_default/text_variables.php:150
+msgid "Project Details"
+msgstr "Dettagli del Progetto"
+
+#: classes/class-id_fes.php:595 ignitiondeck-postmeta.php:143
+#, fuzzy
+msgid "Project Short Description"
+msgstr "Descrizione Breve"
+
+#: classes/class-id_fes.php:608
+#, fuzzy
+msgid "Project Video"
+msgstr "Prezzo del Progetto"
+
+#: classes/class-id_fes.php:620 ignitiondeck-postmeta.php:151
+#, fuzzy
+msgid "Project Long Description"
+msgstr "Descrizione Estesa"
+
+#: classes/class-id_fes.php:633
+#, fuzzy
+msgid "Project FAQ"
+msgstr "Domande Frequenti (FAQ) sul Progetto"
+
+#: classes/class-id_fes.php:646
+#, fuzzy
+msgid "Project Images"
+msgstr "Immagine del Progetto"
+
+#: classes/class-id_fes.php:647
+msgid "Featured Image"
+msgstr ""
+
+#: idf/ignitiondeck-idf.php:54
+msgid "WooCommerce Shortcode"
+msgstr ""
+
+#: idf/ignitiondeck-idf.php:63
+msgid ""
+"If matching IgnitionDeck project to WooCommerce products, please enter the "
+"product ID here."
+msgstr ""
+
+#: idf/ignitiondeck-idf.php:63 idf/ignitiondeck-idf.php:272
+msgid "Otherwise, leave this field blank."
+msgstr ""
+
+#: idf/ignitiondeck-idf.php:64
+msgid "Product ID"
+msgstr "Product ID"
+
+#: idf/ignitiondeck-idf.php:263
+msgid "EDD Download ID"
+msgstr ""
+
+#: idf/ignitiondeck-idf.php:272
+msgid ""
+"If matching IgnitionDeck project to Easy Digital Downloads, please enter the "
+"download ID here."
+msgstr ""
+
+#: idf/ignitiondeck-idf.php:273
+msgid "Download ID"
+msgstr ""
+
+#: idf/ignitiondeck-idf.php:353 languages_default/text_variables.php:288
+msgid "Checkout"
+msgstr "Checkout"
+
+#: idf/ignitiondeck-idf.php:529
+#, fuzzy
+msgid "Exchange Product ID"
+msgstr "Product ID"
+
+#: idf/ignitiondeck-idf.php:531
+msgid ""
+"For integrating IgnitionDeck project level with iThemes Exchange product"
+msgstr ""
+
+#: ign_metabox/init.php:310 ign_metabox/init.php:629 ign_metabox/init.php:633
+#: languages_default/text_variables.php:71
+msgid "Level"
+msgstr "Livello"
+
+#: ign_metabox/init.php:314 ign_metabox/init.php:632
+#: ignitiondeck-postmeta.php:212
+#, fuzzy
+msgid "Level Order"
+msgstr "Prezzo del Livello"
+
+#: ign_metabox/init.php:315 ign_metabox/init.php:633
+#: ignitiondeck-postmeta.php:188
+#, fuzzy
+msgid "Level Short Description"
+msgstr "Level Description"
+
+#: ign_metabox/init.php:316
+#, fuzzy
+msgid "Level Long Descriptions"
+msgstr "Level Description"
+
+#: ign_metabox/init.php:337 languages_default/text_variables.php:284
+msgid "Add Level"
+msgstr "Aggiungi Livello"
+
+#: ign_metabox/init.php:337 languages_default/text_variables.php:280
+msgid "Delete Last Level"
+msgstr "Cancella l'ultimo livello"
+
+#: ignitiondeck-admin.php:8 ignitiondeck-enterprise.php:1160
+#: ignitiondeck-functions.php:517 ignitiondeck-functions.php:544
+#: ignitiondeck-functions.php:639 ignitiondeck-functions.php:734
+#, fuzzy
+msgid "projects"
+msgstr "Progetti"
+
+#: ignitiondeck-admin.php:47
+#, fuzzy
+msgid "Project Categories"
+msgstr "Aggiornamenti del Progetto"
+
+#: ignitiondeck-admin.php:62
+#, fuzzy
+msgid "Project Types"
+msgstr "Tipologia di Progetto"
+
+#: ignitiondeck-admin.php:63 ignitiondeck-postmeta.php:79
+#: languages_default/text_variables.php:298
+msgid "Project Type"
+msgstr "Tipologia di Progetto"
+
+#: ignitiondeck-admin.php:130
+msgid "Author"
+msgstr ""
+
+#: ignitiondeck-admin.php:131
+msgid "Type"
+msgstr ""
+
+#: ignitiondeck-admin.php:152 languages_default/text_variables.php:350
+msgid "None"
+msgstr ""
+
+#: ignitiondeck-admin.php:159
+#, fuzzy
+msgid "Pledge What You Want"
+msgstr "Impegna ciò che vuoi"
+
+#: ignitiondeck-admin.php:162
+#, fuzzy
+msgid "Level-Based"
+msgstr "A livelli"
+
+#: ignitiondeck-admin.php:284 languages_default/text_variables.php:51
+msgid "Project Settings"
+msgstr "Impostazioni di Progetto"
+
+#: ignitiondeck-admin.php:284
+msgid "IDCF"
+msgstr ""
+
+#: ignitiondeck-admin.php:286
+#, fuzzy
+msgid "Custom Settings"
+msgstr "Impostazioni personalizzate di Progetto"
+
+#: ignitiondeck-admin.php:287 languages_default/text_variables.php:47
+msgid "Payment Settings"
+msgstr "Impostazioni di Pagamento"
+
+#: ignitiondeck-admin.php:288 languages_default/text_variables.php:330
+msgid "Deck Builder"
+msgstr ""
+
+#: ignitiondeck-admin.php:290 languages_default/text_variables.php:130
+msgid "Orders"
+msgstr "Ordini"
+
+#: ignitiondeck-admin.php:292 languages_default/text_variables.php:331
+#, fuzzy
+msgid "Email Settings"
+msgstr "Impostazioni per la lista Email"
+
+#: ignitiondeck-admin.php:297
+#, fuzzy
+msgid "Edit Order"
+msgstr "Aggiungi un Ordine"
+
+#: ignitiondeck-admin.php:298
+#, fuzzy
+msgid "View order"
+msgstr "Visualizza il progetto"
+
+#: ignitiondeck-admin.php:299
+#, fuzzy
+msgid "Delete Order"
+msgstr "Cancella"
+
+#: ignitiondeck-admin.php:300 languages_default/text_variables.php:128
+msgid "Add Order"
+msgstr "Aggiungi un Ordine"
+
+#: ignitiondeck-admin.php:1400
+#, fuzzy
+msgid "IgnitionDeck Crowdfunding"
+msgstr "Logo Ignition Deck "
+
+#: ignitiondeck-admin.php:1402
+#, fuzzy
+msgid "Support"
+msgstr "Sostieni Adesso"
+
+#: ignitiondeck-admin.php:1403
+msgid "Documentation"
+msgstr ""
+
+#: ignitiondeck-enterprise.php:855
+#, php-format
+msgid ""
+"Your project is currently saved as a draft. You can see a preview %s%s%s here"
+"%s"
+msgstr ""
+
+#: ignitiondeck-enterprise.php:856 ignitiondeck-enterprise.php:860
+msgid ""
+"You can visit this page at any time in order to continue editing your "
+"project."
+msgstr ""
+
+#: ignitiondeck-enterprise.php:859
+#, php-format
+msgid ""
+"Your project has been submitted and is awaiting review. You can see a "
+"preview %s%s%s here%s"
+msgstr ""
+
+#: ignitiondeck-enterprise.php:863
+#, php-format
+msgid "Your project is live. You can view it %s%s%s here%s"
+msgstr ""
+
+#: ignitiondeck-enterprise.php:864
+msgid ""
+"You may continue to add levels or edit content available to you on this "
+"screen."
+msgstr ""
+
+#: ignitiondeck-enterprise.php:1043 ignitiondeck-enterprise.php:1196
+msgid "Backer Profile"
+msgstr ""
+
+#: ignitiondeck-enterprise.php:1135 ignitiondeck-enterprise.php:1323
+msgid "days to go"
+msgstr ""
+
+#: ignitiondeck-enterprise.php:1135 ignitiondeck-enterprise.php:1323
+msgid "Successful"
+msgstr ""
+
+#: ignitiondeck-enterprise.php:1135 ignitiondeck-enterprise.php:1323
+#, fuzzy
+msgid "Ended"
+msgstr "Terminato il"
+
+#: ignitiondeck-enterprise.php:1138 ignitiondeck-enterprise.php:1326
+msgid "Raised"
+msgstr ""
+
+#: ignitiondeck-enterprise.php:1160
+#, fuzzy
+msgid "Backed"
+msgstr "Indietro"
+
+#: ignitiondeck-enterprise.php:1161 ignitiondeck-enterprise.php:1357
+msgid "Joined"
+msgstr ""
+
+#: ignitiondeck-enterprise.php:1162 ignitiondeck-enterprise.php:1359
+msgid "Website"
+msgstr ""
+
+#: ignitiondeck-enterprise.php:1162 ignitiondeck-enterprise.php:1360
+#: languages_default/text_variables.php:102
+#: templates/_projectCreatorProfile.php:9
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ignitiondeck-enterprise.php:1162 ignitiondeck-enterprise.php:1361
+#: languages_default/text_variables.php:96
+#: templates/_projectCreatorProfile.php:12
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ignitiondeck-enterprise.php:1162 ignitiondeck-enterprise.php:1362
+#, fuzzy
+msgid "Google Plus"
+msgstr "Google+"
+
+#: ignitiondeck-enterprise.php:1233 ignitiondeck-enterprise.php:1418
+msgid "Creator Profile"
+msgstr ""
+
+#: ignitiondeck-enterprise.php:1353
+#, fuzzy
+msgid "Projects Created"
+msgstr "Nome del Progetto"
+
+#: ignitiondeck-enterprise.php:1397
+#, fuzzy
+msgid "' Projects"
+msgstr "Progetti"
+
+#: ignitiondeck-enterprise.php:1400 ignitiondeck-enterprise.php:1432
+#, fuzzy
+msgid "'s Projects"
+msgstr "Progetti"
+
+#: ignitiondeck-filters.php:25
+msgid "Hours"
+msgstr ""
+
+#: ignitiondeck-postmeta.php:27
+msgid "Company Name"
+msgstr ""
+
+#: ignitiondeck-postmeta.php:28
+#, fuzzy
+msgid "Project's Company Name"
+msgstr "Nome del Progetto"
+
+#: ignitiondeck-postmeta.php:36
+msgid "Company Location"
+msgstr ""
+
+#: ignitiondeck-postmeta.php:37
+msgid "Location of the Company. Example: New York"
+msgstr ""
+
+#: ignitiondeck-postmeta.php:45
+msgid "Company URL"
+msgstr ""
+
+#: ignitiondeck-postmeta.php:46
+msgid "URL of the website of the Company. Example: http://example.com"
+msgstr ""
+
+#: ignitiondeck-postmeta.php:54
+#, fuzzy
+msgid "Company Facebook"
+msgstr "Facebook"
+
+#: ignitiondeck-postmeta.php:55
+msgid "Company Facebook page"
+msgstr ""
+
+#: ignitiondeck-postmeta.php:63
+#, fuzzy
+msgid "Company Twitter"
+msgstr "Twitter"
+
+#: ignitiondeck-postmeta.php:64
+msgid "Company Twitter page"
+msgstr ""
+
+#: ignitiondeck-postmeta.php:72
+msgid "Company Logo"
+msgstr ""
+
+#: ignitiondeck-postmeta.php:80 languages_default/text_variables.php:299
+msgid ""
+"Pledge what you want or level based campaign. If you choose pledge what you "
+"want, only the first level will be used. If you choose level based, you can "
+"create as many levels as you need."
+msgstr ""
+"Campagna 'Impegna ciò che vuoi'  o 'a livelli'. Se scegli 'Impegna ciò che "
+"vuoi', verrà usato solo il primo livello. Se scegli 'A livelli', puoi creare "
+"tutti i livelli di cui hai bisogno."
+
+#: ignitiondeck-postmeta.php:86 languages_default/text_variables.php:300
+msgid "Pledge what you want"
+msgstr "Impegna ciò che vuoi"
+
+#: ignitiondeck-postmeta.php:91 languages_default/text_variables.php:301
+msgid "Level based"
+msgstr "A livelli"
+
+#: ignitiondeck-postmeta.php:100 languages_default/text_variables.php:315
+msgid ""
+"Choose how to handle campaign end. Leave open to keep collecting payments, "
+"closed to remove pledge button."
+msgstr ""
+"Scegli come gestire la fine della campagna. Lasciare aperta per mantenere la "
+"riscossione dei pagamenti, chiusa per rimuovere il pulsante impegno."
+
+#: ignitiondeck-postmeta.php:106 languages_default/text_variables.php:316
+msgid "Open"
+msgstr "Aperto"
+
+#: ignitiondeck-postmeta.php:111 languages_default/text_variables.php:317
+msgid "Closed"
+msgstr "Chiuso"
+
+#: ignitiondeck-postmeta.php:119 languages_default/text_variables.php:13
+msgid "Funding Goal"
+msgstr "Obiettivo di Finanziamento"
+
+#: ignitiondeck-postmeta.php:120
+#, fuzzy
+msgid "Amount you are seeking to raise (required)"
+msgstr "Importo che si vuole raccogliere (richiesto)"
+
+#: ignitiondeck-postmeta.php:127
+#, fuzzy
+msgid "Proposed Start Date"
+msgstr "Data di spedizione proposta"
+
+#: ignitiondeck-postmeta.php:128
+msgid "The date the project creator wishes to start funding"
+msgstr ""
+
+#: ignitiondeck-postmeta.php:135 languages_default/text_variables.php:217
+msgid "Fundraising End Date"
+msgstr "Data di fine della raccolta fondi"
+
+#: ignitiondeck-postmeta.php:136
+#, fuzzy
+msgid "Date funding will end (recommended)"
+msgstr "Data finale per la raccolta fondi (consigliato)."
+
+#: ignitiondeck-postmeta.php:144
+msgid "Used in the grid, widget areas, and on the purchase form"
+msgstr ""
+
+#: ignitiondeck-postmeta.php:152
+#, fuzzy
+msgid "Supports HTML. Used on project pages"
+msgstr "App.net sulla pagina del Progetto"
+
+#: ignitiondeck-postmeta.php:159
+#, fuzzy
+msgid "Video Embed Code"
+msgstr "Codice Incluso (Embed Code)"
+
+#: ignitiondeck-postmeta.php:160
+msgid "Video embed code using iframe or embed format (YouTube, Vimeo, etc)"
+msgstr ""
+
+#: ignitiondeck-postmeta.php:189
+msgid "Used in widgets sidebars, and in some cases, on the purchase form"
+msgstr ""
+
+#: ignitiondeck-postmeta.php:197
+msgid "For use on the project page and in level shortcodes/widgets"
+msgstr ""
+
+#: ignitiondeck-postmeta.php:205
+msgid "Restrict the number of buyers that can back this level"
+msgstr ""
+
+#: ignitiondeck-postmeta.php:213
+msgid ""
+"Enter a number of 0 (first) or higher if you wish to customize the placement "
+"of this level"
+msgstr ""
+
+#: ignitiondeck-postmeta.php:226
+#, fuzzy
+msgid "Additional Levels"
+msgstr "Livelli di Prezzo Aggiuntivi"
+
+#: ignitiondeck-postmeta.php:234
+msgid "Level Management"
+msgstr ""
+
+#: ignitiondeck-postmeta.php:244 languages_default/text_variables.php:225
+msgid "Image 2"
+msgstr "Image 2"
+
+#: ignitiondeck-postmeta.php:245
+#, fuzzy
+msgid ""
+"Image 2 - Shortcode: [project_image product=\"{product_number}\" image=\"2\"]"
+msgstr "Image 2 - Shortcode: [product_image product=\"1\" image=\"2\"]"
+
+#: ignitiondeck-postmeta.php:252 languages_default/text_variables.php:227
+msgid "Image 3"
+msgstr "Image 3"
+
+#: ignitiondeck-postmeta.php:253
+#, fuzzy
+msgid ""
+"Image 3 - Shortcode: [project_image product=\"{product_number}\" image=\"3\"]"
+msgstr "Image 3 - Shortcode: [product_image product=\"1\" image=\"3\"]"
+
+#: ignitiondeck-postmeta.php:260 languages_default/text_variables.php:229
+msgid "Image 4"
+msgstr "Image 4"
+
+#: ignitiondeck-postmeta.php:261
+#, fuzzy
+msgid ""
+"Image 4 - Shortcode: [project_image product=\"{product_number}\" image=\"4\"]"
+msgstr "Image 4 - Shortcode: [product_image product=\"1\" image=\"4\"]"
+
+#: ignitiondeck-postmeta.php:268
+#, fuzzy
+msgid "Project FAQs"
+msgstr "Domande Frequenti (FAQ) sul Progetto"
+
+#: ignitiondeck-postmeta.php:269
+#, fuzzy
+msgid "List Project FAQs here"
+msgstr "Domande Frequenti (FAQ) sul Progetto"
+
+#: ignitiondeck-postmeta.php:277
+#, fuzzy
+msgid "List Project Updates here"
+msgstr "Aggiornamenti del Progetto"
+
+#: ignitiondeck-shortcodes.php:438
+msgid "The email field must be enabled via the project settings menu."
+msgstr ""
+
+#: ignitiondeck-update.php:88
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: ignitiondeck-update.php:93
+msgid "An unknown error occurred"
+msgstr ""
+
+#: ignitiondeck.php:36
+msgid ""
+"IgnitionDeck Crowdfunding requires installation of the IgnitionDeck "
+"Framework prior to activation."
+msgstr ""
+
+#: ignitiondeck.php:36
+msgid "Click here to install"
+msgstr ""
+
+#: ignitiondeck.php:1507 languages_default/text_variables.php:240
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: ignitiondeck.php:1511 ignitiondeck.php:1514
+#, fuzzy
+msgid "IgnitionDeck Shortcodes"
+msgstr "Logo Ignition Deck "
+
+#: ignitiondeck.php:1517
+#, fuzzy
+msgid "Project URL"
+msgstr "Progetto"
+
+#: ignitiondeck.php:1520
+msgid "Purchase URL"
+msgstr ""
+
+#: ignitiondeck.php:1523
+msgid "Thank You Project URL"
+msgstr ""
+
+#: ignitiondeck.php:1526
+#, fuzzy
+msgid "Project Parent"
+msgstr "Prezzo del Progetto"
+
+#: ignitiondeck.php:1621 ignitiondeck.php:1685
+msgid "Default"
+msgstr ""
+
+#: ignitiondeck.php:1758
+msgid "No Parent"
+msgstr ""
+
+#: languages_default/text_variables.php:2
+#: languages_default/text_variables.php:155
+msgid "Projects"
+msgstr "Progetti"
+
+#: languages_default/text_variables.php:3
+#: languages_default/text_variables.php:12
+msgid "Project"
+msgstr "Progetto"
+
+#: languages_default/text_variables.php:4
+msgid "Add New Project"
+msgstr "Crea un Nuovo Progetto"
+
+#: languages_default/text_variables.php:5
+#: languages_default/text_variables.php:129
+msgid "Edit"
+msgstr "Revisiona (Edit)"
+
+#: languages_default/text_variables.php:6
+#: languages_default/text_variables.php:206
+msgid "Edit Project"
+msgstr "Modifica il Progetto"
+
+#: languages_default/text_variables.php:7
+msgid "New Project"
+msgstr "Nuovo Progetto"
+
+#: languages_default/text_variables.php:8
+msgid "View Project"
+msgstr "Visualizza il progetto"
+
+#: languages_default/text_variables.php:9
+msgid "Search Project"
+msgstr "Cerca nel Progetto"
+
+#: languages_default/text_variables.php:10
+msgid "No Projects Found"
+msgstr "Non sono stati trovati Progetti"
+
+#: languages_default/text_variables.php:11
+msgid "No Projects Found in Trash"
+msgstr "Non sono stati trovati Progetti nel Cestino"
+
+#: languages_default/text_variables.php:15
+msgid "Days Remaining"
+msgstr "Giorni Rimanenti"
+
+#: languages_default/text_variables.php:16
+msgid "No funding goal set"
+msgstr "Obiettivo di finanziamento non impostato"
+
+#: languages_default/text_variables.php:17
+msgid "No date set"
+msgstr "Data non impostata"
+
+#: languages_default/text_variables.php:18
+msgid "Enter Project Name Here"
+msgstr "Inserire qui il nome del Progetto"
+
+#: languages_default/text_variables.php:19
+msgid "Add"
+msgstr "Aggiungere"
+
+#: languages_default/text_variables.php:21
+msgid "IgnitionDeck Control Panel"
+msgstr "Pannello di Controllo IgnitionDeck"
+
+#: languages_default/text_variables.php:22
+msgid "Facebook Application Settings"
+msgstr "Impostazioni dell'applicazione Facebook"
+
+#: languages_default/text_variables.php:23
+msgid "Save"
+msgstr "Salva"
+
+#: languages_default/text_variables.php:24
+msgid "Facebook settings have been successfully updated."
+msgstr "Le impostazioni di Facebook sono state aggiornate con successo."
+
+#: languages_default/text_variables.php:25
+msgid "Twitter Application Settings"
+msgstr "Impostazioni dell'applicazione Twitter."
+
+#: languages_default/text_variables.php:26
+msgid "Twitter settings have been successfully updated."
+msgstr "Le impostazioni di Twitter sono state aggiornate con successo."
+
+#: languages_default/text_variables.php:28
+msgid "Settings saved."
+msgstr "Impostazioni salvate."
+
+#: languages_default/text_variables.php:29
+msgid "Save Settings"
+msgstr "Salva le Impostazioni"
+
+#: languages_default/text_variables.php:30
+msgid "Update Settings"
+msgstr "Aggiorna le Impostazioni"
+
+#: languages_default/text_variables.php:31
+msgid "Form settings have been successfully updated."
+msgstr "Le impostazioni della maschera sono state aggiornate con successo."
+
+#: languages_default/text_variables.php:32
+msgid "Twitter settings have been successfully saved."
+msgstr "Le impostazioni di Twitter sono state salvate con successo."
+
+#: languages_default/text_variables.php:33
+msgid "Aweber settings have been successfully saved."
+msgstr "Le impostazioni di Aweber sono state salvate con successo."
+
+#: languages_default/text_variables.php:34
+msgid "Aweber settings have been successfully updated."
+msgstr "Le impostazioni di Aweber sono state aggiornate con successo."
+
+#: languages_default/text_variables.php:35
+msgid "Mailchimp settings have been successfully saved."
+msgstr "Le impostazioni di Mailchimp sono state salvate con successo."
+
+#: languages_default/text_variables.php:36
+msgid "Mailchimp settings have been successfully updated."
+msgstr "Le impostazioni di Mailchimp sono state aggiornate con successo."
+
+#: languages_default/text_variables.php:37
+msgid "Payment settings have been successfully saved."
+msgstr "Le impostazioni di pagamento sono state salvate con successo."
+
+#: languages_default/text_variables.php:38
+msgid "Please fill all fields."
+msgstr "Per favore completare tutti i campi."
+
+#: languages_default/text_variables.php:39
+msgid "Projects successfully added."
+msgstr "I Progetti sono stati aggiunti con successo."
+
+#: languages_default/text_variables.php:40
+msgid "previous"
+msgstr "precedente"
+
+#: languages_default/text_variables.php:41
+msgid "next"
+msgstr "successivo"
+
+#: languages_default/text_variables.php:42
+msgid "Project has been successfully updated."
+msgstr "Il progetto è stato aggiornato con successo."
+
+#: languages_default/text_variables.php:43
+msgid "Settings have been successfully updated."
+msgstr "Le impostazioni sono state aggiornate con successo."
+
+#: languages_default/text_variables.php:44
+msgid "Asked Questions"
+msgstr "Domande effettuate"
+
+#: languages_default/text_variables.php:45
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: languages_default/text_variables.php:46
+#: languages_default/text_variables.php:173
+msgid "General Settings"
+msgstr "Impostazioni Generali"
+
+#: languages_default/text_variables.php:48
+msgid "Order Details"
+msgstr "Dettagli dell' Ordine"
+
+#: languages_default/text_variables.php:49
+msgid "Email List Settings"
+msgstr "Impostazioni per la lista Email"
+
+#: languages_default/text_variables.php:50
+msgid "Social Settings"
+msgstr "Impostazioni per il Social (Social Settings)"
+
+#: languages_default/text_variables.php:52
+msgid "Payment Form"
+msgstr "Modulo per il Pagamento"
+
+#: languages_default/text_variables.php:53
+msgid "Payment Form Settings"
+msgstr "Impostazioni per il Modulo di Pagamento"
+
+#: languages_default/text_variables.php:54
+msgid "Widget to show projects"
+msgstr "Dispositivo (Widget) per mostrare i progetti"
+
+#: languages_default/text_variables.php:55
+msgid "IgnitionDeck Project Widget"
+msgstr "Dispositivo (Widget) di Progetto IgnitionDeck"
+
+#: languages_default/text_variables.php:56
+msgid "About the Project"
+msgstr "Informazioni sul Progetto"
+
+#: languages_default/text_variables.php:57
+#, fuzzy
+msgid "The Project FAQs"
+msgstr "Domande Frequenti (FAQ) sul Progetto"
+
+#: languages_default/text_variables.php:58
+msgid "Buyers"
+msgstr "Acquirenti"
+
+#: languages_default/text_variables.php:59
+msgid "Redirecting to Paypal..."
+msgstr "Reindirizzamento a Paypal…"
+
+#: languages_default/text_variables.php:60
+msgid "Twitter.connection.failed"
+msgstr "Connessione.Twitter.fallita"
+
+#: languages_default/text_variables.php:61
+msgid "Error occured let's try again"
+msgstr "Si è verificato un errore, riprovare"
+
+#: languages_default/text_variables.php:62
+msgid "Twitter.share.success"
+msgstr "Condivisione.Twitter.riuscita"
+
+#: languages_default/text_variables.php:63
+msgid "Twitter.share.failed"
+msgstr "Condivisione.Twitter.fallita"
+
+#: languages_default/text_variables.php:64
+msgid "Facebook.share.success"
+msgstr "Condivisione.Facebook.riuscita"
+
+#: languages_default/text_variables.php:65
+msgid "Facebook.share.failed"
+msgstr "Condivisione.Facebook.fallita"
+
+#: languages_default/text_variables.php:66
+#, php-format
+msgid "IgnitionDeck: %s sent a question"
+msgstr "IgnitionDeck: %s una domanda inviata"
+
+#: languages_default/text_variables.php:67
+msgid "Name"
+msgstr "Nome"
+
+#: languages_default/text_variables.php:68
+msgid "Email"
+msgstr "Email"
+
+#: languages_default/text_variables.php:69
+msgid "Subject"
+msgstr "Oggetto"
+
+#: languages_default/text_variables.php:70
+msgid "Message"
+msgstr "Messaggio"
+
+#: languages_default/text_variables.php:72
+#: languages_default/text_variables.php:273
+msgid "Price"
+msgstr "Prezzo"
+
+#: languages_default/text_variables.php:73
+msgid "Update Options"
+msgstr "Opzioni di Aggiornamento"
+
+#: languages_default/text_variables.php:74
+msgid "Contact Form"
+msgstr "Modulo di Contatto"
+
+#: languages_default/text_variables.php:75
+msgid "Send email"
+msgstr "Invia Email"
+
+#: languages_default/text_variables.php:76
+msgid "Clear"
+msgstr "Cancella"
+
+#: languages_default/text_variables.php:77
+#: templates/admin/_productSettings.php:53
+msgid "Clear All"
+msgstr "Cancella Tutto"
+
+#: languages_default/text_variables.php:78
+msgid "Crowdfunding ends on"
+msgstr "Crowdfunding termina il"
+
+#: languages_default/text_variables.php:79
+msgid "Learn More"
+msgstr "Approfondisci"
+
+#: languages_default/text_variables.php:80
+msgid "Support Now"
+msgstr "Sostieni Adesso"
+
+#: languages_default/text_variables.php:81
+msgid "Our Earliest Buyers"
+msgstr "I Nostri Primi Acquirenti"
+
+#: languages_default/text_variables.php:82
+msgid "Ask A Question"
+msgstr "Fai una domanda"
+
+#: languages_default/text_variables.php:83
+msgid "Crowdfunding by IgnitionDeck"
+msgstr "Crowdfunding da IgnitionDeck"
+
+#: languages_default/text_variables.php:84
+msgid "Powered By IgnitionDeck"
+msgstr "Powered By IgnitionDeck"
+
+#: languages_default/text_variables.php:85
+msgid "Payment Information"
+msgstr "Informazioni per il Pagamento"
+
+#: languages_default/text_variables.php:86
+msgid "First Name"
+msgstr "Nome"
+
+#: languages_default/text_variables.php:87
+msgid "Last Name"
+msgstr "Cognome"
+
+#: languages_default/text_variables.php:88
+msgid "Address"
+msgstr "Indirizzo"
+
+#: languages_default/text_variables.php:89
+msgid "Country"
+msgstr "Nazione"
+
+#: languages_default/text_variables.php:90
+msgid "State"
+msgstr "Stato"
+
+#: languages_default/text_variables.php:91
+msgid "City"
+msgstr "Città"
+
+#: languages_default/text_variables.php:92
+msgid "Zip"
+msgstr "CAP"
+
+#: languages_default/text_variables.php:93
+msgid "Pay with Paypal"
+msgstr "Paga con Paypal"
+
+#: languages_default/text_variables.php:94
+msgid "Funding"
+msgstr "Finanziamento"
+
+#: languages_default/text_variables.php:95
+msgid "Total Sale"
+msgstr "Vendita Totale"
+
+#: languages_default/text_variables.php:97
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: languages_default/text_variables.php:98
+msgid "Google+"
+msgstr "Google+"
+
+#: languages_default/text_variables.php:99
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: languages_default/text_variables.php:100
+msgid "Yes"
+msgstr "Si"
+
+#: languages_default/text_variables.php:101
+msgid "No"
+msgstr "No"
+
+#: languages_default/text_variables.php:103
+msgid "Please share your experience with your friends!"
+msgstr "Per favore condividi la tua esperienza con i tuoi amici!"
+
+#: languages_default/text_variables.php:104
+msgid "API key"
+msgstr "Chiave IPA (API key)"
+
+#: languages_default/text_variables.php:105
+msgid "Subscription Email"
+msgstr "e-mail di sottoscrizione"
+
+#: languages_default/text_variables.php:106
+msgid "Aweber Settings"
+msgstr "Impostazioni Aweber"
+
+#: languages_default/text_variables.php:107
+msgid "Make Active"
+msgstr "Attiva"
+
+#: languages_default/text_variables.php:108
+msgid "Consumer Secret"
+msgstr "Segreto Consumatore"
+
+#: languages_default/text_variables.php:109
+msgid "List Email Id"
+msgstr "Lista Email Id"
+
+#: languages_default/text_variables.php:110
+#: languages_default/text_variables.php:118
+msgid "Mailchimp Settings"
+msgstr "Impostazioni Mailchimp "
+
+#: languages_default/text_variables.php:111
+msgid "List id"
+msgstr "Lista Id"
+
+#: languages_default/text_variables.php:112
+msgid "Embed Widget Code"
+msgstr "Codice Dispositivo Incluso (Embed Widget Code)"
+
+#: languages_default/text_variables.php:113
+msgid "Select Project to Create Embed Code for"
+msgstr "Selezionare un Progetto per cui creare Codice Incluso (Embed Code)"
+
+#: languages_default/text_variables.php:114
+msgid "Embed Code"
+msgstr "Codice Incluso (Embed Code)"
+
+#: languages_default/text_variables.php:115
+msgid "Application Id"
+msgstr "Id Applicazione"
+
+#: languages_default/text_variables.php:116
+msgid "Application secret key"
+msgstr "Chiave segreta dell' applicazione"
+
+#: languages_default/text_variables.php:117
+msgid "Text to share"
+msgstr "Testo da condivider"
+
+#: languages_default/text_variables.php:119
+msgid "Email Address"
+msgstr "Indirizzo Email"
+
+#: languages_default/text_variables.php:120
+msgid "Zip Code"
+msgstr "CAP"
+
+#: languages_default/text_variables.php:121
+msgid "Status"
+msgstr "Stato"
+
+#: languages_default/text_variables.php:122
+msgid "Pending"
+msgstr "In attesa"
+
+#: languages_default/text_variables.php:123
+msgid "Complete"
+msgstr "Completo"
+
+#: languages_default/text_variables.php:124
+#: templates/admin/_customSettings.php:149 templates/admin/_orderAdd.php:65
+msgid "Project Name"
+msgstr "Nome del Progetto"
+
+#: languages_default/text_variables.php:125
+msgid "Project Level"
+msgstr "Livello del Progetto"
+
+#: languages_default/text_variables.php:126
+msgid "Select Project"
+msgstr "Selezionare un Progetto"
+
+#: languages_default/text_variables.php:127
+#, fuzzy
+msgid "Select"
+msgstr "Selezionare un Progetto"
+
+#: languages_default/text_variables.php:131
+msgid "Completed"
+msgstr "Completato"
+
+#: languages_default/text_variables.php:132
+msgid "View"
+msgstr "Vista"
+
+#: languages_default/text_variables.php:133
+msgid "Are you sure you want to delete this order by"
+msgstr "Sei sicuro di voler cancellare quest'ordine di"
+
+#: languages_default/text_variables.php:134
+msgid "Delete"
+msgstr "Cancella"
+
+#: languages_default/text_variables.php:135
+msgid "Last Email"
+msgstr "Ultima Email"
+
+#: languages_default/text_variables.php:136
+msgid "Paypal Refund"
+msgstr "Rimborso Paypal"
+
+#: languages_default/text_variables.php:137
+msgid "Pay Key"
+msgstr "Pay Key"
+
+#: languages_default/text_variables.php:138
+msgid "Transaction ID"
+msgstr "ID Transazione"
+
+#: languages_default/text_variables.php:139
+msgid "Currency Code"
+msgstr "Codice Valuta"
+
+#: languages_default/text_variables.php:140
+msgid "Refund"
+msgstr "Rimborso"
+
+#: languages_default/text_variables.php:143
+msgid "PayPal Identity Token"
+msgstr "Gettone di Identità PayPal"
+
+#: languages_default/text_variables.php:144
+msgid "PayPal Email"
+msgstr "Email PayPal"
+
+#: languages_default/text_variables.php:145
+msgid "PayPal Override"
+msgstr "Annullamento PayPal"
+
+#: languages_default/text_variables.php:146
+msgid "Cancel"
+msgstr "Cancella"
+
+#: languages_default/text_variables.php:147
+msgid "Project Image"
+msgstr "Immagine del Progetto"
+
+#: languages_default/text_variables.php:148
+msgid "Change"
+msgstr "Cambio"
+
+#: languages_default/text_variables.php:149
+msgid "Close"
+msgstr "Chiudi"
+
+#: languages_default/text_variables.php:151
+msgid "Project Price"
+msgstr "Prezzo del Progetto"
+
+#: languages_default/text_variables.php:154
+msgid "Goal"
+msgstr "Traguardo"
+
+#: languages_default/text_variables.php:156
+msgid "#"
+msgstr "#"
+
+#: languages_default/text_variables.php:157
+msgid "Image"
+msgstr "Immagine"
+
+#: languages_default/text_variables.php:158
+msgid "Mailchimp API Key"
+msgstr "Chiave IPA (API) Mailchimp"
+
+#: languages_default/text_variables.php:159
+msgid "Mailchimp List ID"
+msgstr "Id Lista Mailchimp"
+
+#: languages_default/text_variables.php:160
+msgid "Aweber Email"
+msgstr "Email Aweber "
+
+#: languages_default/text_variables.php:161
+msgid "Active Settings"
+msgstr "Impostazioni Attive"
+
+#: languages_default/text_variables.php:162
+msgid "Field name"
+msgstr "Nome campo"
+
+#: languages_default/text_variables.php:163
+msgid "Enabled"
+msgstr "Abilitato"
+
+#: languages_default/text_variables.php:164
+msgid "Mandatory"
+msgstr "Obbligatorio"
+
+#: languages_default/text_variables.php:165
+msgid "First name"
+msgstr "Nome"
+
+#: languages_default/text_variables.php:166
+msgid "Last name"
+msgstr "Cognome"
+
+#: languages_default/text_variables.php:167
+msgid "Default Project Settings"
+msgstr "Impostazioni automatiche di Progetto"
+
+#: languages_default/text_variables.php:168
+msgid "Custom Project Settings"
+msgstr "Impostazioni personalizzate di Progetto"
+
+#: languages_default/text_variables.php:169
+#: templates/admin/_customSettings.php:150
+msgid "Project ID"
+msgstr "ID Progetto"
+
+#: languages_default/text_variables.php:170
+msgid "Question Details"
+msgstr "Dettagli della Domanda"
+
+#: languages_default/text_variables.php:171
+msgid "Question Subject"
+msgstr "Oggetto della Domanda"
+
+#: languages_default/text_variables.php:172
+msgid "Created Date"
+msgstr "Data Creazione"
+
+#: languages_default/text_variables.php:174
+msgid "Ignition Deck Logo"
+msgstr "Logo Ignition Deck "
+
+#: languages_default/text_variables.php:175
+msgid "Facebook on Project Page"
+msgstr "Facebook sulla Pagina di Progetto"
+
+#: languages_default/text_variables.php:176
+msgid "Want people to share via Facebook from your project page?  Use this."
+msgstr ""
+"La gente vuole condividere via Facebook dalla tua pagina di progetto?  "
+"Utilizza questo."
+
+#: languages_default/text_variables.php:177
+msgid "Want people to share via Twitter from your project page?  Use this."
+msgstr ""
+"La gente vuole condividere via Twitter dalla tua pagina di progetto?  "
+"Utilizza questo."
+
+#: languages_default/text_variables.php:178
+msgid "Twitter on Project Page"
+msgstr "Twitter sulla pagina del Progetto"
+
+#: languages_default/text_variables.php:179
+msgid "Want people to share via App.net from your project page?  Use this."
+msgstr ""
+"La gente vuole condividere via App.net dalla tua pagina di progetto?  "
+"Utilizza questo."
+
+#: languages_default/text_variables.php:180
+msgid "App.net on Project Page"
+msgstr "App.net sulla pagina del Progetto"
+
+#: languages_default/text_variables.php:181
+msgid "LinkedIn on Project Page"
+msgstr "LinkedIn sulla pagina del Progetto"
+
+#: languages_default/text_variables.php:182
+msgid "Want people to share via LinkedIn from your project page?  Use this."
+msgstr ""
+"La gente vuole condividere via LinkedIn dalla tua pagina di progetto?  "
+"Utilizza questo."
+
+#: languages_default/text_variables.php:183
+msgid "Want people to share via Google+ from your project page?  Use this."
+msgstr ""
+"La gente vuole condividere via Google+ dalla tua pagina di progetto?  "
+"Utilizza questo."
+
+#: languages_default/text_variables.php:184
+msgid "Google+ on Project Page"
+msgstr "Google+ sulla pagina del Progetto"
+
+#: languages_default/text_variables.php:185
+msgid "Want people to share via Pinterest from your project page?  Use this."
+msgstr ""
+"La gente vuole condividere via Pinterest dalla tua pagina di progetto?  "
+"Utilizza questo."
+
+#: languages_default/text_variables.php:186
+msgid "Pinterest on Project Page"
+msgstr "Pinterest sulla pagina di progetto"
+
+#: languages_default/text_variables.php:187
+msgid "Ask a Question Button"
+msgstr "Pulsante Fai una Domanda"
+
+#: languages_default/text_variables.php:188
+msgid "Enable or disable ask a question button on the widget"
+msgstr ""
+"Abilita o Disabilita il pulsante 'Fai una domanda' sul dispositivo (widget)"
+
+#: languages_default/text_variables.php:189
+msgid "Ask a Question Email"
+msgstr "Email Fai una Domanda"
+
+#: languages_default/text_variables.php:190
+msgid "Email address to which the question should be sent"
+msgstr "Indirizzo Email al quale la domanda deve essere inviata"
+
+#: languages_default/text_variables.php:191
+msgid "Deck Themes"
+msgstr "Deck Themes"
+
+#: languages_default/text_variables.php:192
+msgid "IgnitionDeck"
+msgstr "IgnitionDeck"
+
+#: languages_default/text_variables.php:193
+#, fuzzy
+msgid "IgnitionDeck (Light)"
+msgstr "Logo Ignition Deck "
+
+#: languages_default/text_variables.php:194
+#, fuzzy
+msgid "IgnitionDeck (Dark)"
+msgstr "IgnitionDeck"
+
+#: languages_default/text_variables.php:195
+msgid "Clean (Light)"
+msgstr ""
+
+#: languages_default/text_variables.php:196
+msgid "Clean (Dark)"
+msgstr ""
+
+#: languages_default/text_variables.php:197
+#, fuzzy
+msgid "Skyscraper (Light)"
+msgstr "Grattacielo"
+
+#: languages_default/text_variables.php:198
+#, fuzzy
+msgid "Skyscraper (Dark)"
+msgstr "Grattacielo"
+
+#: languages_default/text_variables.php:199
+msgid "Corporate"
+msgstr "Corporate"
+
+#: languages_default/text_variables.php:200
+msgid "Supporter Exclusive"
+msgstr "Sostenitore Esclusivo"
+
+#: languages_default/text_variables.php:201
+msgid "Consumer Key"
+msgstr "Consumer Key"
+
+#: languages_default/text_variables.php:202
+msgid "Callback URL"
+msgstr "Callback URL"
+
+#: languages_default/text_variables.php:203
+msgid "Projects successfully updated."
+msgstr "Progetti aggiornati con successo."
+
+#: languages_default/text_variables.php:204
+msgid "Projects successfully deleted."
+msgstr "Prgetti cancellati con successo."
+
+#: languages_default/text_variables.php:205
+msgid "Updates"
+msgstr "Aggiornamenti"
+
+#: languages_default/text_variables.php:207
+msgid "Add Project"
+msgstr "Aggiungi Progetto"
+
+#: languages_default/text_variables.php:208
+msgid ""
+"This allows you to activate and share via the 'Powered By IgnitionDeck' logo "
+"that would appear at the bottom of the widget."
+msgstr ""
+"Questo permette di attivare e condividere per mezzo del logo 'Powered By "
+"IgnitionDeck' che potrebbe apparire nella parte inferiore del dispositivo "
+"(at the bottom of the widget)."
+
+#: languages_default/text_variables.php:209
+msgid "Name of the Project (Required)"
+msgstr "Nome del Progetto (Richiesto)"
+
+#: languages_default/text_variables.php:210
+msgid "Price for Level 1"
+msgstr "Prezzo del Livello 1"
+
+#: languages_default/text_variables.php:211
+msgid "Price of the first reward level for your project (required)."
+msgstr ""
+"Prezzo del primo livello di riconoscimento per il vostro progetto "
+"(richiesto)."
+
+#: languages_default/text_variables.php:212
+#, fuzzy
+msgid "Level 1 Long Description"
+msgstr "Level Description"
+
+#: languages_default/text_variables.php:213
+#, fuzzy
+msgid "Level 1 Short Description"
+msgstr "Level Description"
+
+#: languages_default/text_variables.php:214
+msgid "Title for level 1."
+msgstr "Titolo per il livello 1."
+
+#: languages_default/text_variables.php:215
+msgid "Purchase limit for level 1."
+msgstr "Limite di acquisto per il livello 1."
+
+#: languages_default/text_variables.php:216
+msgid "Amount you are looking to raise (required)."
+msgstr "Importo che si vuole raccogliere (richiesto)"
+
+#: languages_default/text_variables.php:218
+msgid "Ending date for fundraising (recommended)."
+msgstr "Data finale per la raccolta fondi (consigliato)."
+
+#: languages_default/text_variables.php:219
+msgid "Proposed Ship Date"
+msgstr "Data di spedizione proposta"
+
+#: languages_default/text_variables.php:220
+msgid "When do you hope to ship? Leave blank if unknown."
+msgstr "Quando pensate di spedire ? Lasciare in bianco se non definito."
+
+#: languages_default/text_variables.php:221
+msgid "Video"
+msgstr "Video"
+
+#: languages_default/text_variables.php:222
+msgid "Embed Video Code (YouTube, Vimeo, Viddler)."
+msgstr "Codice Inclusione Video (YouTube, Vimeo, Viddler)."
+
+#: languages_default/text_variables.php:223
+msgid "Main Project Image"
+msgstr "Immagine Principale del Progetto"
+
+#: languages_default/text_variables.php:224
+#, fuzzy
+msgid "Image 1 - Shortcode: [project_image product=\"1\" image=\"1\"]"
+msgstr "Image 1 - Shortcode: [product_image product=\"1\" image=\"1\"]"
+
+#: languages_default/text_variables.php:226
+#, fuzzy
+msgid "Image 2 - Shortcode: [project_image product=\"1\" image=\"2\"]"
+msgstr "Image 2 - Shortcode: [product_image product=\"1\" image=\"2\"]"
+
+#: languages_default/text_variables.php:228
+#, fuzzy
+msgid "Image 3 - Shortcode: [project_image product=\"1\" image=\"3\"]"
+msgstr "Image 3 - Shortcode: [product_image product=\"1\" image=\"3\"]"
+
+#: languages_default/text_variables.php:230
+#, fuzzy
+msgid "Image 4 - Shortcode: [project_image product=\"1\" image=\"4\"]"
+msgstr "Image 4 - Shortcode: [product_image product=\"1\" image=\"4\"]"
+
+#: languages_default/text_variables.php:231
+msgid "FAQs"
+msgstr "Domande Frequenti (FAQ)"
+
+#: languages_default/text_variables.php:232
+msgid ""
+"For those often asked questions that you would like to give a direct answer "
+"to. You can edit and add as much as needed."
+msgstr ""
+"Per quelle domande frequenti cui volete  rispondere direttmente. Potete "
+"entrare in modifica e aggiungere tutte quelle necessarie."
+
+#: languages_default/text_variables.php:234
+msgid "Add product updates here."
+msgstr "Aggiungere qui gli aggiornamenti del progetto."
+
+#: languages_default/text_variables.php:235
+msgid "Terms and Conditions"
+msgstr "Termini e Condizioni."
+
+#: languages_default/text_variables.php:236
+msgid ""
+"This is not displayed on the project page. This is displayed during checkout "
+"and will show below the checkout box.  Use this space to specify your terms, "
+"answer questions regarding shipping, and cover all your bases."
+msgstr ""
+"Questo non viene visualizzato sulla pagina di progetto. Viene visualizzato "
+"durante il ckeckout e  mostra qui sotto il riquadro di checkout.  Usa questo "
+"spazio per specificare i termini, rispondere lle domande riguardanti la "
+"spedizione, e raggiungere tutti gli interessati."
+
+#: languages_default/text_variables.php:237
+msgid ""
+"We recommend you fill this in with clear instructions about how your project "
+"is going to go after you've reached your goal.  It would also be very smart "
+"to mention what you'll do if you don't reach your goal."
+msgstr ""
+"Raccomandiamo di riempire questo con istruzioni chiare sul modo di procedere "
+"del vostro progetto dopo aver raggiunto la meta di finanziamento. Potrebbe "
+"anche essere una buona idea descrivere cosa farete se non la raggiungerete."
+
+#: languages_default/text_variables.php:238
+msgid "Additional Price Levels"
+msgstr "Livelli di Prezzo Aggiuntivi"
+
+#: languages_default/text_variables.php:239
+msgid "Add additional price levels here."
+msgstr "Aggiungere qui i livelli di prezzo aggiuntivi."
+
+#: languages_default/text_variables.php:241
+#: languages_default/text_variables.php:281
+msgid "Short Description"
+msgstr "Descrizione Breve"
+
+#: languages_default/text_variables.php:242
+msgid ""
+"This is the project short description, used for the regular, mini, and embed "
+"widgets."
+msgstr ""
+"Questa è la descrizione breve usata per i dispositivi (widgets) regolari, "
+"mini e inclusi (embed)."
+
+#: languages_default/text_variables.php:243
+msgid "IgnitionDeck Mini Widget"
+msgstr "IgnitionDeck Mini Dispositivo (Widget)"
+
+#: languages_default/text_variables.php:244
+msgid "Sandbox Mode"
+msgstr "Modalità Sandbox"
+
+#: languages_default/text_variables.php:245
+msgid "Check to enable Paypal Sandbox mode."
+msgstr "Segna per abilitare la modalità Paypal Sandbox."
+
+#: languages_default/text_variables.php:246
+#: languages_default/text_variables.php:282
+msgid "Long Description"
+msgstr "Descrizione Estesa"
+
+#: languages_default/text_variables.php:247
+msgid ""
+"This is the project long description, used for displaying content below the "
+"video field."
+msgstr ""
+"Questa è la descrizione estesa del progetto, utilizzata per visualizzare il "
+"contenuto sotto il campo del video."
+
+#: languages_default/text_variables.php:248
+msgid "API Username"
+msgstr "IPA (API) Username"
+
+#: languages_default/text_variables.php:249
+msgid "API Password"
+msgstr "IPA (API) Password"
+
+#: languages_default/text_variables.php:250
+msgid "API Signature"
+msgstr "IPA (API) Firma"
+
+#: languages_default/text_variables.php:251
+msgid "Pre Approval Key"
+msgstr "Chiave di Pre Approvazione"
+
+#: languages_default/text_variables.php:252
+#, fuzzy
+msgid ""
+"Please write pre approval key to let the user purchase directly without "
+"going to PayPal website. Use this only for secure connections"
+msgstr ""
+"Per favore scrivere la chiave di pre approvazione per permettere all'utente "
+"di acquistare direttamente senza collegarsi al sito web PayPal<br/>Da usare "
+"soltanto con connessioni sicure"
+
+#: languages_default/text_variables.php:253
+msgid "Payment Error"
+msgstr "Errore di Pagamento"
+
+#: languages_default/text_variables.php:254
+msgid "Preapproval Key"
+msgstr "Chiave di Preapprovazione"
+
+#: languages_default/text_variables.php:255
+msgid "Generate Preapproval Key"
+msgstr "Genera la Chiave di Preapprovazione"
+
+#: languages_default/text_variables.php:256
+msgid "Paypal_Email"
+msgstr "Paypal_Email"
+
+#: languages_default/text_variables.php:257
+msgid "Starting Date"
+msgstr "Data di Inizio"
+
+#: languages_default/text_variables.php:258
+msgid "Ending Date"
+msgstr "Data di Fine"
+
+#: languages_default/text_variables.php:259
+msgid "Max Number of Payments"
+msgstr "Numero Massimo di Pagamenti"
+
+#: languages_default/text_variables.php:260
+msgid "Max Total Amount"
+msgstr "Massimo Ammontare Totale"
+
+#: languages_default/text_variables.php:261
+msgid "Show Mini Widget on"
+msgstr "Mostra Mini Widget on"
+
+#: languages_default/text_variables.php:262
+msgid "Project Page Only"
+msgstr "Solo Pagina di Progetto"
+
+#: languages_default/text_variables.php:263
+msgid "Small Widget on all Pages"
+msgstr "Small Widget su tutte le Pagine"
+
+#: languages_default/text_variables.php:264
+msgid "Pledgers"
+msgstr "Offerenti"
+
+#: languages_default/text_variables.php:265
+msgid "Pledged of"
+msgstr "Impegnato di"
+
+#: languages_default/text_variables.php:266
+msgid "Days left"
+msgstr "Giorni rimanenti"
+
+#: languages_default/text_variables.php:267
+msgid "Ended on"
+msgstr "Terminato il"
+
+#: languages_default/text_variables.php:268
+msgid "Only"
+msgstr "Soltanto"
+
+#: languages_default/text_variables.php:269
+msgid "Reload Captcha"
+msgstr "Ricarica Captcha"
+
+#: languages_default/text_variables.php:270
+msgid "Type Captcha"
+msgstr "Digita Captcha"
+
+#: languages_default/text_variables.php:271
+msgid "Date"
+msgstr "Data"
+
+#: languages_default/text_variables.php:272
+msgid "Pledged"
+msgstr "Impegnato"
+
+#: languages_default/text_variables.php:274
+msgid "Title"
+msgstr "Titolo"
+
+#: languages_default/text_variables.php:275
+#: languages_default/text_variables.php:276
+msgid "Limit"
+msgstr "Limite"
+
+#: languages_default/text_variables.php:277
+msgid "of"
+msgstr "di"
+
+#: languages_default/text_variables.php:278
+msgid "Taken"
+msgstr "Preso"
+
+#: languages_default/text_variables.php:279
+msgid "Total Contribution"
+msgstr "Contribuzione Totale"
+
+#: languages_default/text_variables.php:283
+msgid "Description"
+msgstr "Descrizione"
+
+#: languages_default/text_variables.php:286
+msgid "Additional Project Information"
+msgstr "Informazioni Aggiuntive del Progetto"
+
+#: languages_default/text_variables.php:287
+msgid "Awesome! You are about to support"
+msgstr "Fantastico! Stai per dare il tuo sostegno"
+
+#: languages_default/text_variables.php:289
+msgid "Required"
+msgstr "Richiesto"
+
+#: languages_default/text_variables.php:290
+msgid "Publishable Key"
+msgstr "Chiave Publicabile"
+
+#: languages_default/text_variables.php:291
+msgid "Payment Method"
+msgstr "Metodo di Pagamento"
+
+#: languages_default/text_variables.php:292
+msgid "Payment Method Selection"
+msgstr "Selezione Metodo di Pagamento"
+
+#: languages_default/text_variables.php:293
+#, fuzzy
+msgid ""
+"The current Payment Gateway is PayPal.  Below you fill in all those blank "
+"fields, to make IgnitionDeck interface with PayPal so you can collect the "
+"funds to your PayPal account, and then make sure IgnitionDeck knows that "
+"each order is completed, and post the results to your Project Widget. This "
+"may be the most complicated part of setting up your project, so pay close "
+"attention and you’ll have it done in no time!"
+msgstr ""
+"L'attuale Gateway di Pagamento è Paypal.  Qui sotto riempite tutti i campi "
+"in bianco, per creare l'interfaccia di IgnitionDeck verso Paypal così da "
+"poter raccogliere i finanziamenti tramite il vostro account PayPal, "
+"assicurando che IgnitioDeck sappia che ciascun ordine è completato, e "
+"notifichi i risultati al vostro Dispositivo (Widget) di Progetto.<br><br>\t"
+"\r\n"
+"Questa potrebbe essere la parte più complicata dell'impostazione del vostro "
+"progetto - quindi usate molta attenzione e concluderete molto rapidamente!"
+
+#: languages_default/text_variables.php:294
+msgid "Click Here"
+msgstr "Click Qui"
+
+#: languages_default/text_variables.php:295
+msgid "for instructions on getting your Paypal Identity Token."
+msgstr "per istruzioni sull'acquisizione del Gettone di Identità Paypal."
+
+#: languages_default/text_variables.php:296
+msgid ""
+"Rarely required. Sometimes helps when international orders are rejected "
+"because of address issues."
+msgstr ""
+"Raramente richiesto. A volte aiuta quando gli ordini internazionali vengono "
+"rifiutati per problematiche di indirizzo."
+
+#: languages_default/text_variables.php:297
+msgid "Enter Price"
+msgstr "Inserire il Prezzo"
+
+#: languages_default/text_variables.php:302
+msgid "Sold out"
+msgstr "Venduto"
+
+#: languages_default/text_variables.php:303
+msgid "Enter Manual Amount"
+msgstr "Inserisci Importo Manuale"
+
+#: languages_default/text_variables.php:304
+msgid "Switch Project Type"
+msgstr "Cambia Tipologia di Progetto"
+
+#: languages_default/text_variables.php:305
+msgid "Back"
+msgstr "Indietro"
+
+#: languages_default/text_variables.php:306
+msgid "Waiting"
+msgstr "In attesa"
+
+#: languages_default/text_variables.php:307
+msgid "Add Skin"
+msgstr "Aggiungi Rivestimento (Skin)"
+
+#: languages_default/text_variables.php:308
+msgid "Delete Skin"
+msgstr "Cancella Rivestimento (Skin)"
+
+#: languages_default/text_variables.php:309
+msgid ""
+"Copy this HTML code and send it to the person who’d like to post this to "
+"their website, or use it yourself.  Make sure, wherever you use it, it’s "
+"pasted as HTML.  We don’t recommend you edit this code in any way, as it’s "
+"been designed to very specifically work at the exact width and height it is "
+"set at."
+msgstr ""
+"Copiate questo codice HTML e inviatelo alla persona che desidera inserirlo "
+"nel proprio sito web, oppure usatelo voi stessi. Assicuratevi, ovunque lo "
+"usiate, di includerlo come HTML. Sconsigliamo vivamente di modificare il "
+"codice in qualunque maniera, perchè è stato disegnato per lavorare in "
+"maniera estremamente specifica alla esatta ampiezza e altezza a cui è stato "
+"impostato."
+
+#: languages_default/text_variables.php:310
+msgid ""
+"This creates the HTML code you can use to paste your project widget on "
+"websites outside of your own.  Share this with anyone who’d like to embed "
+"your widget on their website.  You’ll need to select the project you want "
+"the code made for, and then click ‘Generate Code’.  Once clicked, it will "
+"give you the proper code to use for pasting into other websites, and it will "
+"link back to your project on your website.  It will also display up-to-date "
+"information about how your Project is doing!"
+msgstr ""
+"Crea il codice HTML da usare per inserire il vostro dispositivo di progetto "
+"(project widget) in siti web diversi dal vostro.  Condividete questo con "
+"chiunque desideri includere il vostro dispositivo (widget) nel proprio sito "
+"web.  Dovete selezionare il progetto per cui volete che il codice sia "
+"generato e fare click su 'Genera Codice'.  Una volta effettuato il click, "
+"sarà prodotto il codice appropriato da usare per essere inserito negli altri "
+"siti web in modo collegarli al vostro progetto sul vostro sito web. Saranno "
+"inoltre mostrate informazioni aggiornate sull'andamento del Progetto!"
+
+#: languages_default/text_variables.php:311
+msgid "Affiliate Settings"
+msgstr "Impostazioni di Affiliazione"
+
+#: languages_default/text_variables.php:312
+msgid "Affiliate Link"
+msgstr "Link di Affiliazione"
+
+#: languages_default/text_variables.php:313
+msgid "Skin Instructions"
+msgstr "Istruzioni di rivestimento (Skin Instructions)"
+
+#: languages_default/text_variables.php:318
+msgid "Warning"
+msgstr "Avviso"
+
+#: languages_default/text_variables.php:319
+msgid ""
+" This will process all pending authorizations related to the selected "
+"campaign."
+msgstr ""
+"Questo elaborerà tutte le autorizzazioni in attesa relative alla campagna "
+"selezionata."
+
+#: languages_default/text_variables.php:320
+msgid ""
+"Use this screen to process transactions once your fund threshold has been "
+"reached. Please use this feature with care, and remember to clearly state "
+"terms on your website or campaign page."
+msgstr ""
+"Utilizzate questa schermata per processare le transazioni una volta che la "
+"soglia di finanziamento sia stata raggiunta.Per favore utilizzate questa "
+"caratteristica con cautela, e ricordate di specificare chiaramente i termini "
+"sul vostro sito web o sulla pagina relativa alla campagna."
+
+#: languages_default/text_variables.php:321
+msgid "Customers will only be charged once."
+msgstr "L'addebito ai clienti sarà effettuato soltanto una volta."
+
+#: languages_default/text_variables.php:322
+msgid "Process Authorizations"
+msgstr "Autorizzazioni di Processo"
+
+#: languages_default/text_variables.php:323
+msgid ""
+"The current Payment Gateway is PayPal.  Below you fill in all those blank "
+"fields, to make IgnitionDeck interface with PayPal so you can collect the "
+"funds to your PayPal account, and then make sure IgnitionDeck knows that "
+"each order is completed, and post the results to your Project Widget."
+msgstr ""
+"L'attuale Gateway di Pagamento è Paypal.  Qui sotto riempite tutti i campi "
+"in bianco, per creare l'interfaccia di IgnitionDeck verso Paypal così da "
+"poter raccogliere i finanziamenti tramite il vostro account PayPal, "
+"assicurando che IgnitioDeck sappia che ciascun ordine è completato, e "
+"notifichi i risultati al vostro Dispositivo (Widget) di Progetto."
+
+#: languages_default/text_variables.php:324
+msgid "Immediately Deliver Funds"
+msgstr "Eroga Immediatamente i Fondi"
+
+#: languages_default/text_variables.php:325
+msgid "100% Threshold"
+msgstr "Soglia 100%"
+
+#: languages_default/text_variables.php:326
+msgid "Choose Project Type"
+msgstr "Scegliere il tipo di Progetto"
+
+#: languages_default/text_variables.php:327
+msgid "Enter Amount"
+msgstr "Inserire l'ammontare"
+
+#: languages_default/text_variables.php:328
+msgid "Works with Paypal Standard Only"
+msgstr "Funziona solo con Standard Paypal"
+
+#: languages_default/text_variables.php:329
+msgid "Disable Success Action"
+msgstr "Azione di Disabilitazione Riuscita"
+
+#: languages_default/text_variables.php:332
+#, fuzzy
+msgid "Email Settings Saved"
+msgstr "Impostazioni salvate."
+
+#: languages_default/text_variables.php:333
+msgid ""
+"Select the components you wish to display and then save. Use the id listed "
+"in the dropdown menu to customize your deck. Currently works on "
+"project_widget, project_mini_widget, and project_page_complete. Simply add "
+"deck=\"id\" within the shortcode."
+msgstr ""
+
+#: languages_default/text_variables.php:334
+msgid "Create new or select deck to edit"
+msgstr ""
+
+#: languages_default/text_variables.php:335
+#, fuzzy
+msgid "New Deck"
+msgstr "Nuovo Progetto"
+
+#: languages_default/text_variables.php:336
+#, fuzzy
+msgid "Deck Title"
+msgstr "Titolo del Livello"
+
+#: languages_default/text_variables.php:338
+msgid "Percentage Bar"
+msgstr ""
+
+#: languages_default/text_variables.php:339
+#, fuzzy
+msgid "Total Raised"
+msgstr "Vendita Totale"
+
+#: languages_default/text_variables.php:340
+#, fuzzy
+msgid "Project Goal"
+msgstr "Nome del Progetto"
+
+#: languages_default/text_variables.php:341
+#, fuzzy
+msgid "Total Orders"
+msgstr "Ordini"
+
+#: languages_default/text_variables.php:342
+#, fuzzy
+msgid "Levels"
+msgstr "Livello"
+
+#: languages_default/text_variables.php:343
+msgid "Buy Button"
+msgstr ""
+
+#: languages_default/text_variables.php:344
+#, fuzzy
+msgid "Order"
+msgstr "Ordini"
+
+#: languages_default/text_variables.php:345
+msgid "Change to modify the order in which levels are displayed."
+msgstr ""
+
+#: languages_default/text_variables.php:346
+#, fuzzy
+msgid "License Settings"
+msgstr "Impostazioni Generali"
+
+#: languages_default/text_variables.php:347
+#, fuzzy
+msgid "License Key"
+msgstr "Consumer Key"
+
+#: languages_default/text_variables.php:348
+msgid ""
+"Entering your <a href=\"http://ignitiondeck.com/id/documentation/"
+"ignitiondeck-crowdfunding/setup-ignitiondeck/ignitiondeck-license-keys/\" "
+"target=\"_blank\">license key</a> will enable automatic updates via the "
+"WordPress admin for the duration of your license period."
+msgstr ""
+
+#: languages_default/text_variables.php:349
+#, fuzzy
+msgid "Project Submitted"
+msgstr "Nome del Progetto"
+
+#: languages_default/text_variables.php:351
+#, fuzzy
+msgid "Project Page URL"
+msgstr "Solo Pagina di Progetto"
+
+#: languages_default/text_variables.php:352
+#, fuzzy
+msgid "Current Project Page"
+msgstr "Pinterest sulla pagina di progetto"
+
+#: languages_default/text_variables.php:353
+msgid "Page/Post"
+msgstr ""
+
+#: languages_default/text_variables.php:354
+msgid "External URL"
+msgstr ""
+
+#: languages_default/text_variables.php:355
+msgid "Default Purchase Page"
+msgstr ""
+
+#: languages_default/text_variables.php:356
+msgid "Default Thank You Page"
+msgstr ""
+
+#: templates/_embedWidget.php:14
+msgid "RAISED"
+msgstr ""
+
+#: templates/_lbLevelSelect.php:15
+msgid "Step 1:"
+msgstr ""
+
+#: templates/_lbLevelSelect.php:15
+msgid "Specify your contribution amount for"
+msgstr ""
+
+#: templates/_lbLevelSelect.php:20
+#, fuzzy
+msgid "Contribution Level"
+msgstr "Contribuzione Totale"
+
+#: templates/_lbLevelSelect.php:38
+#, fuzzy
+msgid "Total"
+msgstr "Vendita Totale"
+
+#: templates/_lbLevelSelect.php:55
+msgid "Next Step"
+msgstr ""
+
+#: templates/admin/_deckBuilder.php:107
+msgid "How to add Deck skins"
+msgstr ""
+
+#: templates/admin/_deckBuilder.php:109
+msgid "Upload skin assets to the /skins directory via FTP"
+msgstr ""
+
+#: templates/admin/_deckBuilder.php:110
+msgid ""
+"CSS file will be named ignitiondeck-skinname.css. Enter the &lsquo;"
+"skinname&rsquo; in the box and click &lsquo;Add Skin&rsquo;"
+msgstr ""
+
+#: templates/admin/_deckBuilder.php:111
+msgid "To delete, select skin and click &lsquo;Delete Skin&rsquo;"
+msgstr ""
+
+#: templates/admin/_orderDetails.php:320
+#, fuzzy
+msgid "Search Orders"
+msgstr "Cerca nel Progetto"
+
+#: templates/admin/_orderDetails.php:335
+#, fuzzy
+msgid "Show all projects"
+msgstr "Dispositivo (Widget) per mostrare i progetti"
+
+#: templates/admin/_orderDetails.php:354
+msgid "ID"
+msgstr ""
+
+#: templates/admin/_orderView.php:56
+#, fuzzy
+msgid "Manual Amount"
+msgstr "Inserisci Importo Manuale"
+
+#: templates/admin/_productSettings.php:10
+msgid ""
+"This is where you set the defaults for whenever you create a new project on "
+"your website.  Whatever you set here, is what each project will default to, "
+"unless you set its custom settings below."
+msgstr ""
+
+#: templates/admin/_productSettings.php:12
+msgid ""
+"Currency Code: this is the currency PayPal will collect funds in, as well as "
+"the currency that will be displayed publicly."
+msgstr ""
+
+#: templates/admin/_productSettings.php:14
+msgid ""
+"Address information: Ask for this if some of your reward levels involve "
+"shipping an item.  We highly suggest however, that you email all of your "
+"supporters once it’s actually time to ship, to get up to date shipping "
+"information from them at that time."
+msgstr ""
+
+#: templates/admin/_productSettings.php:24
+msgid "U.S. Dollar"
+msgstr ""
+
+#: templates/admin/_productSettings.php:25
+msgid "Australian Dollar"
+msgstr ""
+
+#: templates/admin/_productSettings.php:26
+msgid "Canadian Dollar"
+msgstr ""
+
+#: templates/admin/_productSettings.php:27
+msgid "Czech Koruna"
+msgstr ""
+
+#: templates/admin/_productSettings.php:28
+msgid "Danish Krone"
+msgstr ""
+
+#: templates/admin/_productSettings.php:29
+msgid "Euro"
+msgstr ""
+
+#: templates/admin/_productSettings.php:30
+msgid "Hong Kong Dollar<"
+msgstr ""
+
+#: templates/admin/_productSettings.php:31
+msgid "Hungarian Forint"
+msgstr ""
+
+#: templates/admin/_productSettings.php:32
+msgid "Israeli New Sheqel"
+msgstr ""
+
+#: templates/admin/_productSettings.php:33
+msgid "Japanese Yen"
+msgstr ""
+
+#: templates/admin/_productSettings.php:34
+msgid "Mexican Peso"
+msgstr ""
+
+#: templates/admin/_productSettings.php:35
+msgid "Malaysian Ringgit"
+msgstr ""
+
+#: templates/admin/_productSettings.php:36
+msgid "Norwegian Krone"
+msgstr ""
+
+#: templates/admin/_productSettings.php:37
+msgid "New Zealand Dollar"
+msgstr ""
+
+#: templates/admin/_productSettings.php:38
+msgid "Philippine Peso"
+msgstr ""
+
+#: templates/admin/_productSettings.php:39
+msgid "Polish Zloty"
+msgstr ""
+
+#: templates/admin/_productSettings.php:40
+msgid "Pound Sterling"
+msgstr ""
+
+#: templates/admin/_productSettings.php:41
+msgid "Singapore Dollar"
+msgstr ""
+
+#: templates/admin/_productSettings.php:42
+msgid "Swedish Krona"
+msgstr ""
+
+#: templates/admin/_productSettings.php:43
+msgid "Swiss Franc"
+msgstr ""
+
+#: templates/admin/_productSettings.php:44
+msgid "New Taiwan Dollar"
+msgstr ""
+
+#: templates/admin/_productSettings.php:45
+msgid "Thai Baht"
+msgstr ""
+
+#: templates/admin/_productSettings.php:46
+msgid "Turkish Lira"
+msgstr ""
+
+#: templates/admin/_productSettings.php:47
+msgid "Brazilian Real"
+msgstr ""
+
+#: templates/admin/_productSettings.php:52
+#, fuzzy
+msgid "Check All"
+msgstr "Cancella Tutto"
+
+#: templates/admin/_productSettings.php:171
+msgid "Automatically insert project template"
+msgstr ""
+
+#: templates/admin/_projectPreauthSelect.php:3
+#, fuzzy
+msgid "Process Project Pre-Authorizations"
+msgstr "Autorizzazioni di Processo"
+
+#: templates/admin/_projectPreauthSelect.php:5
+#, fuzzy
+msgid ""
+"Warning:</span> This will process all pending authorizations related to the "
+"selected campaign"
+msgstr ""
+"Questo elaborerà tutte le autorizzazioni in attesa relative alla campagna "
+"selezionata."
+
+#: templates/admin/_projectPreauthSelect.php:6
+#, fuzzy
+msgid "Customers will only be charged once"
+msgstr "L'addebito ai clienti sarà effettuato soltanto una volta."
+
+#: templates/admin/_projectPreauthSelect.php:12
+#, fuzzy
+msgid "Process Project Authorizations"
+msgstr "Autorizzazioni di Processo"
+
+#~ msgid "Clean"
+#~ msgstr "Pulisci"
+
+#~ msgid "Description for level 1."
+#~ msgstr "Descrizione per il livello 1."
+
+#, fuzzy
+#~ msgid "Continue Checkout"
+#~ msgstr "Checkout"
+
+#~ msgid "Make Payment"
+#~ msgstr "Make Payment"
+
+#~ msgid "This will be funded on"
+#~ msgstr "This will be funded on"
+
+#~ msgid "Support This Project"
+#~ msgstr "Support This Project"
+
+#~ msgid "Price for Level "
+#~ msgstr "Price for Level "
+
+#~ msgid "Description for Level "
+#~ msgstr "Description for Level "
+
+#, fuzzy
+#~ msgid "First Price Level"
+#~ msgstr "Additional Price Levels"
+
+#~ msgid "First price level description."
+#~ msgstr "First price level description."
+
+#, fuzzy
+#~ msgid "Image 1"
+#~ msgstr "Image"
+
+#~ msgid "Disclaimer"
+#~ msgstr "Disclaimer"
+
+#~ msgid "This is not displayed on the project page. For testing only."
+#~ msgstr "This is not displayed on the project page. For testing only."
+
+#~ msgid ""
+#~ "This will have a default disclaimer pre-filled that a user will have the "
+#~ "ability to edit to their needs."
+#~ msgstr ""
+#~ "This will have a default disclaimer pre-filled that a user will have the "
+#~ "ability to edit to their needs."
+
+#~ msgid "Sr. no"
+#~ msgstr "Sr. no"
+
+#~ msgid "Mail chimp Settings"
+#~ msgstr "Mail chimp Settings"
+
+#~ msgid "Action"
+#~ msgstr "Action"
+
+#~ msgid "Product"
+#~ msgstr "Project"
+
+#~ msgid "Products"
+#~ msgstr "Products"
+
+#~ msgid "Edit Product"
+#~ msgstr "Edit Project"
+
+#~ msgid "Add Product"
+#~ msgstr "Add Project"
+
+#~ msgid "Facebook settings have been successfully saved."
+#~ msgstr "Facebook settings have been successfully saved."
+
+#~ msgid "Consumer key"
+#~ msgstr "Consumer key"
+
+#~ msgid "Consumer secret"
+#~ msgstr "Consumer secret"
+
+#~ msgid "Add New Product"
+#~ msgstr "Add New Product"
+
+#~ msgid "New Product"
+#~ msgstr "New Product"
+
+#~ msgid "View Product"
+#~ msgstr "View Product"
+
+#~ msgid "Search Product"
+#~ msgstr "Search Product"

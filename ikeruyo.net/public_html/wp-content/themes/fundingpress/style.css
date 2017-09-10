@@ -1,0 +1,17 @@
+/*
+Theme Name: TEAM KENSUKE IKERUYO
+Theme URI: 
+Author: 
+Author URI:
+Description: 
+Version: 4.1.7
+License: TEAM KENSUKE. All rights reserved.
+License URI: 
+Tags: two-columns, custom-header, custom-background, threaded-comments, sticky-post, translation-ready, microformats, rtl-language-support, editor-style, custom-menu
+Text Domain: IKEREUYO
+*/
+
+@import url('css/bootstrap.css');
+@import url('css/bootstrap-fixes.css');
+@import url('css/main.css');
+@import url('css/woocommerce.css');
